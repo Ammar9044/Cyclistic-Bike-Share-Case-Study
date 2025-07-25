@@ -41,7 +41,8 @@ Cyclistic’s internal analysis revealed that **annual members bring more long-t
 ## 📁 Files Included
 
 - `Cyclistic Bike -Case Study.pdf` – Final case study report including business goal, analysis, visual insights, and recommendations
-- All the relevent Datasets and Resources are given. 
+- All the relevent Datasets and Resources are given.
+- `https://public.tableau.com/app/profile/ammar.jaffar/vizzes` Tableau Public for Visuals.  
 
 ---
 
